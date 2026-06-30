@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR5a0011/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0011/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高上玉皇本行集經(二)
+  date: '2015-08-28 23:34:39.256660'
+  source:
+    repository: kanripo
+    path: KR5a0011
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0011_000-YP-C.yaml, hash: 'sha256:47f70669194407e9649c308c31dbb304cc72fb655f442b6eec750a097916415f'}
+  - {seq: 1, filename: KR5a0011_001-YP-C.yaml, hash: 'sha256:dadef25267105becbe64557ae4146ca6f2999c376efb56a0cfa09d71c160a907'}
+  - {seq: 2, filename: KR5a0011_002-YP-C.yaml, hash: 'sha256:745c0fee3beead3f23319fec46c393b56f6368c92a91aa952fd458d3e119d8b1'}
+  - {seq: 3, filename: KR5a0011_003-YP-C.yaml, hash: 'sha256:8083a5efe1e473a11777d9f0587b740a1fc13caa68588018f3da6e73b8ea1a85'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0011_000-YP-C.markers.yaml, hash: 'sha256:47b7d150adaf1ed418d8fbe3bb4c0198b0861d72d7720baea7c4c014ce544632'}
+  - {seq: 1, role: markers, filename: assets/KR5a0011_001-YP-C.markers.yaml, hash: 'sha256:c6a87b1c0c89b07574866fd6a8c84613b83b30ac3fbe86b64a1f882a549d7910'}
+  - {seq: 2, role: markers, filename: assets/KR5a0011_002-YP-C.markers.yaml, hash: 'sha256:8c7d8df83d89648f814898c1c977910d0b7935ca9e855a99e5f3b85862fb9bcf'}
+  - {seq: 3, role: markers, filename: assets/KR5a0011_003-YP-C.markers.yaml, hash: 'sha256:3229a927e6621c4cbd03224803f6df1cbdfb2c7e5342b728763cb54cb34ee153'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0011_YP-C_07miji-04-0001a
+    span:
+    - body
+    - 0
+    - 1517
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0011_YP-C_07miji-04-0004b
+    span:
+    - body
+    - 0
+    - 8851
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0011_YP-C_07miji-04-0026a
+    span:
+    - body
+    - 0
+    - 9201
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0011_YP-C_07miji-04-0075a
+    span:
+    - body
+    - 0
+    - 5970
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:f7387dc042832b32b758596d4f1a27f5e3c027d3d4752ab1abff378b6a60b51b

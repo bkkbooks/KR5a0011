@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR5a0011/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0011/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高上玉皇本行集經(二)
+  date: '2015-08-28 23:34:39.256660'
+  source:
+    repository: kanripo
+    path: KR5a0011
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0011_000-CK-KZ-jye.yaml, hash: 'sha256:a307e466f6a557e558aa1cd7d7a50bc2b4ea2be80e8f0edd0004b986bd11f16b'}
+  - {seq: 1, filename: KR5a0011_001-CK-KZ-jye.yaml, hash: 'sha256:19bef0084eef379cd0af989667f38196ebe5085d0754e8526f93b41dd910fec1'}
+  - {seq: 2, filename: KR5a0011_002-CK-KZ-jye.yaml, hash: 'sha256:a115aaee6fd119a589636b268904a346afdcd8cbd8368ffb49812389960ef738'}
+  - {seq: 3, filename: KR5a0011_003-CK-KZ-jye.yaml, hash: 'sha256:a6153234a87710c05d9ea6f88cd9274dbc638a605ed57573ae3f422b7fa470d2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0011_000-CK-KZ-jye.markers.yaml, hash: 'sha256:6a7bdec1da1e730c32dfc0d484dfec6ec1dda79372606b797d51f779913c18fb'}
+  - {seq: 1, role: markers, filename: assets/KR5a0011_001-CK-KZ-jye.markers.yaml, hash: 'sha256:659d528173ce0fca0815e3fbe104c6b330f6b03bf4ca91d3449df2f9973b2b34'}
+  - {seq: 2, role: markers, filename: assets/KR5a0011_002-CK-KZ-jye.markers.yaml, hash: 'sha256:6fa64f4394346a4700aa885c0e4d89438ccc4cb99d70ce17fc4ccc0a2e4f6779'}
+  - {seq: 3, role: markers, filename: assets/KR5a0011_003-CK-KZ-jye.markers.yaml, hash: 'sha256:79825eee5b0a40ab6f8643200003f379834057cb4ec3d7d90c07cffc4cb495b8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0011_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 1517
+  label: 高上玉皇本行集經
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0011_CK-KZ_01p004b
+    span:
+    - body
+    - 0
+    - 8851
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0011_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 6685
+    - 9190
+  label: 洞玄靈寶玉皇功德品第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0011_CK-KZ_01p075a
+    span:
+    - body
+    - 0
+    - 5970
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:19a2a6caa9978b2a4e74bd39f2f1eb646c6e717189902c74b1c5a5d2ba447d60
