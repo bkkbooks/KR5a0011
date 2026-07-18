@@ -182,6 +182,7 @@ markers:
       ', id: KR5a0011_krp_000-bkkkrnewl28}
   - {type: line-break, offset: 303, content: '', id: KR5a0011_HFL_000-002a07}
   - {type: punctuation, offset: 303, content: (, id: KR5a0011_krp_000-bkkpn1}
+  - {type: voice, offset: 303, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 304, content: ), id: KR5a0011_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 310, content: '
 
@@ -356,6 +357,7 @@ markers:
   - {type: variant, offset: 747, length: 7, content: 年月日臣良上表, CK-KZ-jye: ''}
   - {type: variant, offset: 747, length: 7, content: 年月日臣良上表, YP-C: ''}
   - {type: punctuation, offset: 750, content: (, id: KR5a0011_krp_000-bkkpn3}
+  - {type: voice, offset: 750, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 751, content: ), id: KR5a0011_krp_000-bkkpn4}
   - {type: 'kr:newline', offset: 754, content: '
 
@@ -761,4 +763,4 @@ markers:
 
       ', id: KR5a0011_krp_000-bkkkrnewl131}
   back: []
-hash: sha256:cba5e761d32752894202e77ea5eabcdd8750b0b1ccc734e2469d796755ae3de2
+hash: sha256:1c40a9e50810164d8445ba634a800618f9bd31967c2d349044f91d38825c4f5f
